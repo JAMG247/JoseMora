@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy José Ángel Mora  
+# 👋 ¡Hola! Soy José Ángel Mora Garrido
 ### Desarrollador Backend | Full Stack Jr (Laravel – PHP – MySQL)
 
 Soy un desarrollador Backend y Full Stack Junior especializado en **Laravel, PHP, MySQL y APIs REST**, con experiencia real construyendo aplicaciones completas bajo arquitectura MVC, autenticación, control de versiones, consultas SQL optimizadas y diseño responsivo con Tailwind CSS.
