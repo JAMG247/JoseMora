@@ -81,7 +81,7 @@ Seguir creciendo como **Desarrollador Backend**, contribuir a proyectos reales, 
 ---
 
 ## 📫 Contacto
-📧 **Correo:** joseangelm1994@gmail.com  
+📧 **Correo:** josemora953007@gmail.com  
 🌎 **Ubicación:** Santiago, Chile  
 💼 **CV Disponible Bajo Solicitud**  
 
