@@ -83,6 +83,3 @@ Actualmente enfocado en desarrollar proyectos reales que muestren mi crecimiento
 ### **🙌 Gracias por visitar mi perfil**
 
 Si deseas colaborar, revisar mis proyectos o contactarme para oportunidades, estaré encantado de conversar.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAMG247&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMG247&layout=compact&theme=tokyonight&hide_border=true)
